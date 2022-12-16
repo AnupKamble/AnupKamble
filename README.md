@@ -18,7 +18,6 @@
 - ✍️ Fun fact : _I Always try to learn something new and then sleep till it store in the brain_ 😎<br>
 
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-
  <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Connect with me ...._**
@@ -39,15 +38,23 @@
     <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/twitter.svg" width="32px"  />
   </a>
    
-   
+   <br>
+ <hr>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Professional Details ...._**
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> <br>
+
+<a href="https://port-folio-fawn-two.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://port-folio-fawn-two.vercel.app/" />
+    </a>
+    <a title="anup.kamble.207@gmail.com" href="https://drive.google.com/file/d/1-ORldVEtCxXz60MoQGchG3q-ahjrsCo1/view">
+        <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="anup.kamble.207@gmail.com" />
+    </a>
   
 </p>
 
 <img src ="https://github.com/AnupKamble/AnupKamble/blob/main/imhd.gif" align="right" width="260" height="260" />
-
 <br>
-<br>
-
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <p >
