@@ -1,7 +1,5 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="200" height="200" color="orange" />
 <!-- <h1 align="left" >Hey there I'm <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Anup Kamble </h1> -->
-
-
  ### Hi there 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Daughter&amp;color=FF7722&amp;size=18&amp;lines=Hey!+It's+Anup+Kamble!;+FULL-Stack+Web+Developer...👨🏻‍💻;" style="width: 80%;">
 
