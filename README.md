@@ -8,7 +8,6 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
-
 - 🤔 I use daily `.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **M E R N**🥰<br>
 - 🔥 I use to write code on **[leetcode](https://leetcode.com/Anup_kamble_207/)** <br>
