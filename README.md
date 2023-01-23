@@ -5,12 +5,13 @@
 <h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 - 🤔 I use daily `.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **M E R N**🥰<br>
 - 🔥 I use to write code on **[leetcode](https://leetcode.com/Anup_kamble_207/)** <br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
+- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
+- ⚡ I’m looking for help with anything **I am currently learning! 😅**. <br>
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : _I Always try to learn something new and then sleep till it store in the brain_ 😎<br>
 
