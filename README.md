@@ -22,7 +22,6 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
 <p>
-  
   <a href="mailto:Anup.kamble.207@gmail.com">
     <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/mail.png" width="32px"  />
   </a>
