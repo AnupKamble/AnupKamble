@@ -97,6 +97,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{AnupKamble}/count.svg" alt="AnupKamble :: Visitor's Count" /></p>
 
 <hr>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=AnupKamble&theme=vue" alt=""/> </p>
+ <hr>
 
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -124,16 +126,13 @@
 </span></a> </p>
 
  <br/>
-<!-- GitHub Cup's   -->
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=AnupKamble&theme=vue" alt=""/> </p>
- 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnupKamble&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
 <hr clear="both">
 <!-- 
 <img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/> -->
 
 
+<br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a></code>
