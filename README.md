@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._** <br>
 - 🤔 I use daily `.js`,` .css`, `.html` <br>
-- 🛠 I’m currently learning about **AWS**🥰 <br>
+- 🛠 I’m currently learning about **AWS and docker**🥰 <br>
 - 🔥 I use to write code on **[leetcode](https://leetcode.com/Anup_kamble_207/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**. <br>
