@@ -44,7 +44,7 @@
 <a href="https://anup-kamble.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://port-folio-fawn-two.vercel.app/" />
     </a>
-    <a title="anup.kamble.207@gmail.com" href="https://drive.google.com/file/d/1KlTvKAuF4n9Nroy5cI-UUnNIsfjXhTMw/view?usp=share_link">
+    <a title="anup.kamble.207@gmail.com" href="https://drive.google.com/file/d/1dGOs4h_cnwqt8lFI7QdCMWpxVJwamkLS/view?usp=drive_link">
         <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="anup.kamble.207@gmail.com" />
     </a>
   
